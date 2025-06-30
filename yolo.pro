@@ -30,7 +30,7 @@ msvc {
 
     INCLUDEPATH += C:/Users/commander/Downloads/Programs/onnxruntime-win-x64-1.20.0/include
     LIBS += -LC:/Users/commander/Downloads/Programs/onnxruntime-win-x64-1.20.0/lib onnxruntime.lib
-    LIBS += -LC:/Users/commander/Downloads/Programs/onnxruntime-win-x64-1.20.0/lib
+    #LIBS += -LC:/Users/commander/Downloads/Programs/onnxruntime-win-x64-1.20.0/lib
 }
 
 
