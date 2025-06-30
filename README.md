@@ -1,2 +1,6 @@
 # QT-Yolo
-Deploy yolo using onnxRuntime and OpencvDNn on QT
+Deploy Yolo using onnxRuntime and OpencvDNN on QT C++\
+opencv::dnn thread separation\
+onnxRuntime thread separation\
+detection display\
+speed test\
